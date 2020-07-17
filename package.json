@@ -1,0 +1,28 @@
+{
+  "name": "ultra-easy-discord-bot",
+  "version": "0.0.1",
+  "description": "A wrapper to build Discord.js Bots, focused on Commands and Conversations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jah0wl/ultra-easy-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "commands",
+    "conversations"
+  ],
+  "author": "Adela Torre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jah0wl/ultra-easy-discord-bot/issues"
+  },
+  "homepage": "https://github.com/jah0wl/ultra-easy-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
